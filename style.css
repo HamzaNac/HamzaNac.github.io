@@ -1,6 +1,9 @@
 body{
     background-color: black;
 }
+h1{
+    text-align: center;
+}
 img{
     width: 1000px;
     height: 600px;
@@ -11,3 +14,4 @@ img{
 h1,td,li,p,a{
     color:white;
 }
+
