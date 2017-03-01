@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+img{
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    margin-left: 200px;
+
+}
+h1,td,li,p{
+    color:white;
+}
